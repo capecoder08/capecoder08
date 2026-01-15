@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Alyssa.</h1>
-<h2 align="center">A full-stack engineer and AI tinkerer building systems and solving problems.
+<h2 align="center">A full-stack engineer and AI tinkerer building systems and solving problems.</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />  
